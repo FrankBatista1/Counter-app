@@ -1,13 +1,12 @@
-import React from 'react'
-import {Text, View} from 'react-native'
+import React from 'react';
+import {Text, View} from 'react-native';
 
-export const App = () => {
+const App = () => {
   return (
     <View>
-      <Text>Basic react native configuration</Text>
+      <Text>Test</Text>
     </View>
-  )
-}
+  );
+};
 
 export default App;
-
